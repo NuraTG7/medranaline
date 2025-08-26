@@ -17,42 +17,44 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    /* Medrenaline Color Palette */
+    --primary: 279 92% 15%; /* #32044a - Dark Violet */
+    --primary-foreground: 0 0% 98%;
+    
+    --secondary: 278 89% 34%; /* #6e0ba1 - Deep Violet */
+    --secondary-foreground: 0 0% 98%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --accent: 285 73% 50%; /* #9c35cd - Lighter Purple */
+    --accent-foreground: 0 0% 98%;
+
+    --violet-light: 293 65% 67%; /* #c271e6 - Soft Lilac */
+    --violet-pastel: 294 80% 85%; /* #e0b5f5 - Pastel Lavender */
 
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;
-
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --ring: 279 92% 15%;
 
-    --radius: 0.5rem;
+    --radius: 0.75rem;
 
-    --sidebar-background: 0 0% 98%;
+    /* Custom Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--secondary)));
+    --gradient-accent: linear-gradient(135deg, hsl(var(--secondary)), hsl(var(--accent)));
+    --gradient-hero: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--accent)));
+    --gradient-light: linear-gradient(135deg, hsl(var(--violet-light)), hsl(var(--violet-pastel)));
 
-    --sidebar-foreground: 240 5.3% 26.1%;
+    /* Custom Shadows */
+    --shadow-glow: 0 0 40px hsl(var(--accent) / 0.3);
+    --shadow-elegant: 0 10px 30px -10px hsl(var(--primary) / 0.3);
 
-    --sidebar-primary: 240 5.9% 10%;
-
-    --sidebar-primary-foreground: 0 0% 98%;
-
-    --sidebar-accent: 240 4.8% 95.9%;
-
-    --sidebar-accent-foreground: 240 5.9% 10%;
-
-    --sidebar-border: 220 13% 91%;
-
-    --sidebar-ring: 217.2 91.2% 59.8%;
+    /* Animations */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   }
 
   .dark {
