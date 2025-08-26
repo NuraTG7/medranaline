@@ -34,7 +34,7 @@ const UpdatesScroller = () => {
     return () => clearInterval(interval);
   }, [updates.length]);
 
-  const getTypeColor = (type: string) => {
+  const getTypeColor = (type) => {
     switch (type) {
       case "announcement": return "bg-gradient-accent";
       case "info": return "bg-gradient-primary";

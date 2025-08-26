@@ -34,7 +34,7 @@ const CountdownTimer = () => {
     return () => clearInterval(interval);
   }, []);
 
-  const TimeUnit = ({ value, label }: { value: number; label: string }) => (
+  const TimeUnit = ({ value, label }) => (
     <Card className="p-6 text-center bg-gradient-accent shadow-glow border-none">
       <div className="text-3xl md:text-4xl font-bold text-primary-foreground mb-2">
         {value.toString().padStart(2, '0')}
