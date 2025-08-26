@@ -1,13 +1,13 @@
-import Navigation from "../components/Navigation.jsx";
-import Footer from "../components/Footer.jsx";
-import CountdownTimer from "../components/CountdownTimer.jsx";
-import UpdatesScroller from "../components/UpdatesScroller.jsx";
-import { Button } from "../components/ui/button";
-import { Card, CardContent } from "../components/ui/card";
-import { Badge } from "../components/ui/badge";
+import Navigation from "@/components/Navigation";
+import Footer from "@/components/Footer";
+import CountdownTimer from "@/components/CountdownTimer";
+import UpdatesScroller from "@/components/UpdatesScroller";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
 import { Calendar, MapPin, Users, Award, Stethoscope, Brain } from "lucide-react";
-import heroImage from "../assets/hero-medical-fest.jpg";
-import collegeImage from "../assets/college-building.jpg";
+import heroImage from "@/assets/hero-medical-fest.jpg";
+import collegeImage from "@/assets/college-building.jpg";
 
 const Index = () => {
   const highlights = [
@@ -64,18 +64,15 @@ const Index = () => {
 
           {/* Event Highlights */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-3xl mx-auto">
-            {highlights.map((item, index) => {
-              const IconComponent = item.icon;
-              return (
-                <Card key={index} className="bg-background/10 backdrop-blur-sm border-primary-foreground/20">
-                  <CardContent className="p-4 text-center">
-                    <IconComponent className="h-8 w-8 mx-auto mb-2 text-violet-light" />
-                    <div className="text-lg font-bold">{item.title}</div>
-                    <div className="text-sm opacity-80">{item.subtitle}</div>
-                  </CardContent>
-                </Card>
-              );
-            })}
+            {highlights.map((item, index) => (
+              <Card key={index} className="bg-background/10 backdrop-blur-sm border-primary-foreground/20">
+                <CardContent className="p-4 text-center">
+                  <item.icon className="h-8 w-8 mx-auto mb-2 text-violet-light" />
+                  <div className="text-lg font-bold">{item.title}</div>
+                  <div className="text-sm opacity-80">{item.subtitle}</div>
+                </CardContent>
+              </Card>
+            ))}
           </div>
         </div>
       </section>

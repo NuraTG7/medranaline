@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import { Card } from "./ui/card";
-import { Badge } from "./ui/badge";
+import { Card } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
 
 const UpdatesScroller = () => {
   const [currentUpdate, setCurrentUpdate] = useState(0);
@@ -34,7 +34,7 @@ const UpdatesScroller = () => {
     return () => clearInterval(interval);
   }, [updates.length]);
 
-  const getTypeColor = (type) => {
+  const getTypeColor = (type: string) => {
     switch (type) {
       case "announcement": return "bg-gradient-accent";
       case "info": return "bg-gradient-primary";

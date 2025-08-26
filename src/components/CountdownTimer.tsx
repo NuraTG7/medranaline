@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Card } from "./ui/card";
+import { Card } from "@/components/ui/card";
 
 const CountdownTimer = () => {
   const [timeLeft, setTimeLeft] = useState({
@@ -34,7 +34,7 @@ const CountdownTimer = () => {
     return () => clearInterval(interval);
   }, []);
 
-  const TimeUnit = ({ value, label }) => (
+  const TimeUnit = ({ value, label }: { value: number; label: string }) => (
     <Card className="p-6 text-center bg-gradient-accent shadow-glow border-none">
       <div className="text-3xl md:text-4xl font-bold text-primary-foreground mb-2">
         {value.toString().padStart(2, '0')}

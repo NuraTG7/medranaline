@@ -1,17 +1,17 @@
-import Navigation from "../components/Navigation.jsx";
-import Footer from "../components/Footer.jsx";
+import Navigation from "@/components/Navigation";
+import Footer from "@/components/Footer";
 
-const OtherEvents = () => {
+const Quiz = () => {
   return (
     <div className="min-h-screen bg-background">
       <Navigation />
       <main className="pt-20">
         <div className="container mx-auto px-4 py-12">
           <h1 className="text-4xl font-bold text-center mb-8 bg-gradient-primary bg-clip-text text-transparent">
-            Other Events
+            Quiz Competition
           </h1>
           <p className="text-center text-muted-foreground mb-12">
-            Coming Soon - Event details and registration
+            Coming Soon - Quiz details and registration
           </p>
         </div>
       </main>
@@ -20,4 +20,4 @@ const OtherEvents = () => {
   );
 };
 
-export default OtherEvents;
+export default Quiz;
