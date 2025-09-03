@@ -2,13 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
 /* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
 All colors MUST be HSL.
 */
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #ffffff, #a8c7e7, #a097eb);
+  background-attachment: fixed;
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
+    --background:0 0% 100%;
     --foreground: 222.2 84% 4.9%;
 
     --card: 0 0% 100%;
@@ -104,4 +115,29 @@ All colors MUST be HSL.
   body {
     @apply bg-background text-foreground;
   }
+  
 }
+
+@font-face {
+    font-family: 'Ethnocentric';
+    src: url('./assets/fonts/Ethnocentric.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IT';
+    src: url('./assets/fonts/IT.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Optional classes for easy usage */
+.ethnocentric-text {
+    font-family: 'Ethnocentric', sans-serif;
+}
+
+.it-text {
+    font-family: 'IT', sans-serif;
+}
+

@@ -1,0 +1,73 @@
+{
+  "quizzes": [
+    {
+      "id": "senior",
+      "title": "Medrenaline’25 - Senior Quiz",
+      "date": "28th June 2025",
+      "time": "Prelims: 8:30 AM | Finals: 12 PM",
+      "venue": "Auditorium, Kilpauk Medical College, Chennai",
+      "rules": [
+        "Each team may consist of maximum 3 members.",
+        "Participation is open to MBBS students from First Year to CRRI.",
+        "A maximum of 1 CRRI is permitted per team.",
+        "Lone wolves are allowed.",
+        "Cross-college teams are not allowed."
+      ],
+      "topics": [
+        "All 19 subjects of MBBS curriculum."
+      ],
+      "structure": [
+        "Two rounds: Preliminary & Final.",
+        "Top 6 teams from prelims qualify for finals."
+      ],
+      "fees": [
+        "Early Bird (upto Sept 6): ₹600",
+        "Lone Wolf: ₹400",
+        "Late Bird: ₹700",
+        "On Spot: ₹750"
+      ],
+      "prizes": "Winning Prize (To be confirmed)",
+      "incharges": [
+        "Bhaskar KK - 9742516192",
+        "Thamizhazhagan KC - 9345619439"
+      ],
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfG2uEEdSNjLwmS3YG6oHrk4B3KEpvFRkrfSpnELu_9M4vyiQ/viewform?usp=header",
+      "image": "/images/senior-quiz.jpg"
+    },
+    {
+      "id": "junior",
+      "title": "Symbiosis’25 - The Junior Quiz",
+      "date": "27th September 2025",
+      "time": "Prelims: 8:30 AM | Finals: 12 PM",
+      "venue": "Auditorium, Kilpauk Medical College, Chennai",
+      "rules": [
+        "Each team may consist of maximum 3 members.",
+        "Open to MBBS students from First Year to Third Year (III MBBS Part 1 / Pre-final Year / 2022 Batch).",
+        "Maximum 2 members from Pre-final Year (2022 Batch) per team.",
+        "Lone wolves are allowed.",
+        "Cross-college teams are not allowed."
+      ],
+      "topics": [
+        "Preclinical subjects from the First and Second MBBS curriculum.",
+        "Forensic Medicine excluded."
+      ],
+      "structure": [
+        "Two rounds: Preliminary & Final.",
+        "Top 6 teams from prelims qualify for finals."
+      ],
+      "fees": [
+        "Early Bird: ₹600",
+        "Lone Wolf: ₹400",
+        "Late Bird: ₹700",
+        "On Spot: ₹750"
+      ],
+      "prizes": "Winning Prize (To be confirmed)",
+      "incharges": [
+        "Rohith S - 9342515582",
+        "Nakhul R - 9345593261"
+      ],
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScj1f4xxQYBgJ5rO0rhBVnwySggFnZrgHZBVXuA5IIEKDwyiQ/viewform?usp=header",
+      "image": "/images/junior-quiz.jpg"
+    }
+  ]
+}

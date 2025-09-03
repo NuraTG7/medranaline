@@ -4,26 +4,30 @@ import { Badge } from "@/components/ui/badge";
 
 const UpdatesScroller = () => {
   const [currentUpdate, setCurrentUpdate] = useState(0);
-  
+
   const updates = [
     {
       date: "2025-01-15",
       title: "Registration Opens Soon!",
-      content: "Workshop registrations will begin on February 1st, 2025. Stay tuned for exciting medical workshops and competitions!",
-      type: "announcement"
+      content:
+        "Workshop registrations will begin on February 1st, 2025. Stay tuned for exciting medical workshops and competitions!",
+      type: "announcement",
     },
     {
       date: "2025-01-10",
       title: "Venue Confirmed",
-      content: "Medrenaline'25 will be held at the Govt. Kilpauk Medical College campus. All events, workshops, and competitions in one location!",
-      type: "info"
+      content:
+        "Medrenaline'25 will be held at the Govt. Kilpauk Medical College campus. All events, workshops, and competitions in one location!",
+      type: "info",
     },
     {
       date: "2025-01-05",
       title: "Call for Sponsors",
-      content: "We're looking for sponsors to make Medrenaline'25 even bigger! Contact us for partnership opportunities.",
-      type: "opportunity"
-    }
+      content:
+        "We're looking for sponsors to make Medrenaline'25 even bigger! Contact us for partnership opportunities.",
+      type: "opportunity",
+    },
+    
   ];
 
   useEffect(() => {
@@ -36,59 +40,71 @@ const UpdatesScroller = () => {
 
   const getTypeColor = (type: string) => {
     switch (type) {
-      case "announcement": return "bg-gradient-accent";
-      case "info": return "bg-gradient-primary";
-      case "opportunity": return "bg-gradient-light";
-      default: return "bg-gradient-primary";
+      case "announcement":
+        return "bg-gradient-to-r from-red-500 to-yellow-500";
+      case "info":
+        return "bg-gradient-to-r from-blue-500 to-cyan-400";
+      case "opportunity":
+        return "bg-gradient-to-r from-green-400 to-lime-300";
+      default:
+        return "bg-gray-300";
     }
   };
 
   return (
     <div className="w-full max-w-2xl mx-auto">
       <h3 className="text-xl font-semibold mb-4 text-center">Latest Updates</h3>
-      
-      <Card className="p-6 min-h-[200px] relative overflow-hidden">
-        <div 
-          className="flex transition-transform duration-500 ease-in-out"
-          style={{ transform: `translateX(-${currentUpdate * 100}%)` }}
-        >
-          {updates.map((update, index) => (
-            <div key={index} className="w-full flex-shrink-0 px-2">
-              <div className="flex items-start gap-3">
-                <Badge 
-                  className={`${getTypeColor(update.type)} text-primary-foreground shrink-0`}
-                >
-                  {update.type}
-                </Badge>
-                <div className="flex-1">
-                  <div className="flex items-center justify-between mb-2">
-                    <h4 className="font-semibold text-lg">{update.title}</h4>
-                    <span className="text-sm text-muted-foreground">
-                      {new Date(update.date).toLocaleDateString()}
-                    </span>
-                  </div>
-                  <p className="text-muted-foreground leading-relaxed">
-                    {update.content}
-                  </p>
-                </div>
-              </div>
+
+<Card className="relative overflow-hidden p-4 min-h-[180px]">
+  <div
+    className="flex transition-transform duration-500 ease-in-out"
+    style={{
+      transform: `translateX(-${currentUpdate * (100 / updates.length)}%)`,
+      width: `${updates.length * 100}%`,
+    }}
+  >
+    {updates.map((update, index) => (
+      <div
+        key={index}
+        className="flex-shrink-0 px-2"
+        style={{ width: `${100 / updates.length}%` }} // Adjust width per visible item
+      >
+        <div className="flex items-start gap-3 bg-white p-3 rounded-lg shadow-sm">
+          <Badge
+            className={`${getTypeColor(update.type)} text-white shrink-0`}
+          >
+            {update.type.toUpperCase()}
+          </Badge>
+          <div className="flex-1">
+            <div className="flex items-center justify-between mb-1">
+              <h4 className="font-semibold text-lg">{update.title}</h4>
+              <span className="text-sm text-gray-400">
+                {new Date(update.date).toLocaleDateString()}
+              </span>
             </div>
-          ))}
+            <p className="text-gray-500 leading-relaxed text-sm">
+              {update.content}
+            </p>
+          </div>
         </div>
-        
-        {/* Progress indicators */}
-        <div className="flex justify-center gap-2 mt-6">
-          {updates.map((_, index) => (
-            <button
-              key={index}
-              className={`w-2 h-2 rounded-full transition-colors ${
-                index === currentUpdate ? 'bg-primary' : 'bg-muted'
-              }`}
-              onClick={() => setCurrentUpdate(index)}
-            />
-          ))}
-        </div>
-      </Card>
+      </div>
+    ))}
+  </div>
+
+  {/* Progress indicators */}
+  <div className="flex justify-center gap-2 mt-4">
+    {updates.map((_, index) => (
+      <button
+        key={index}
+        className={`w-2 h-2 rounded-full transition-colors ${
+          index === currentUpdate ? "bg-blue-500" : "bg-gray-300"
+        }`}
+        onClick={() => setCurrentUpdate(index)}
+      />
+    ))}
+  </div>
+</Card>
+
     </div>
   );
 };

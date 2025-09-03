@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/fopi-rush');
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -12,7 +14,7 @@
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #626492aa);
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
@@ -39,4 +41,15 @@
 
 .read-the-docs {
   color: #888;
+}
+
+@font-face {
+    font-family: 'Ethnocentric';
+    src: url('./assets/fonts/Ethnocentric-RG.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ethnocentric-text {
+    font-family: 'Ethnocentric', sans-serif;
 }

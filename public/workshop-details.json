@@ -1,0 +1,264 @@
+{
+  "workshops": [
+    {
+      "id": "spectrum-visus",
+      "title": "SPECTRUM VISUS",
+      "subtitle": "OPHTHALMOLOGY WORKSHOP",
+      "conductedBy": "DEPT OF OPHTHALMOLOGY, GKMCH",
+      "date": "26/9/25, Friday",
+      "time": "9:00 AM to 1:00 PM",
+      "venue": "OP AUDITORIUM, GKMCH",
+      "details": [
+        {
+          "heading": "SESSIONS",
+          "points": [
+            "Demonstration of ophthalmic equipment’s: IOL Biometry, A scan, keratometry, IOL power calculation",
+            "Anterior and posterior segment – optical coherence tomography",
+            "Fundus photography",
+            "Glaucoma - Applanation tonometry, pachymetry, perimetry"
+          ]
+        },
+        { "heading": "ADDITIONAL SESSIONS", "points": ["Museum visit", "From injury to insight : Ophthalmic emergencies", "Display of low vision aids"] },
+        {
+          "heading": "HANDS ON TRAINING",
+          "points": ["Slit lamp examination", "Direct ophthalmoscopy", "Refraction : Auto refractometer and subjective Refraction", "Schiotz tonometry"]
+        }
+      ],
+      "slotsAvailable": 40,
+      "fees": ["Early bird: ₹700", "Late bird: ₹800"],
+      "incharges": ["Srinisha: 7904538069", "Swetha: 8148655688"],
+      "image": "/src/assets/workshop/Ophthalmology-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfGX0gLmcL3SbPFOa2g_cPUTjzOWw5SMccuvUkthgUHqWKlEQ/viewform?usp=header"
+    },
+    {
+      "id": "correctio-skeleti",
+      "title": "CORRECTIONE SKELETI",
+      "subtitle": "ORTHOPAEDICS WORKSHOP",
+      "conductedBy": "DEPT OF ORTHOPAEDICS, GKMCH",
+      "date": "26th September 2025, Friday",
+      "time": "9:00 AM TO 2:00 PM",
+      "venue": "Orthopaedic Auditorium, GKMCH",
+      "details": [
+        { "heading": "LECTURE", "points": ["X-ray findings"] },
+        { "heading": "DEMO", "points": ["POP application", "Close reduction of common fractures", "Skeletal traction"] },
+        { "heading": "HANDS ON", "points": ["Bone modelling workshops: plating humerus and nailing tibia"] }
+      ],
+      "slotsAvailable": 50,
+      "fees": ["Early bird: ₹1100", "Late bird: ₹1250"],
+      "incharges": ["Vishnu Teja: 8190905588", "Shyam Balaji: 9489969699"],
+      "image": "/src/assets/workshop/Orthopaedics-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScXzuBRK3D5m1sWEZa0mi9zq7v6tUr1BXWaTS5tM0K4w4bNgg/viewform?usp=header"
+    },
+    {
+      "id": "circulus-sanguinis",
+      "title": "CIRCULUS SANGUINIS",
+      "subtitle": "CARDIOLOGY WORKSHOP",
+      "conductedBy": "DEPT OF CARDIOLOGY, GKMCH",
+      "date": "26/09/2025, Friday",
+      "time": "8:30 AM - 4:00 PM",
+      "venue": "OP CONFERENCE HALL, GKMCH",
+      "details": [
+        { "heading": "MORNING SESSION (8:30 AM - 12:30 PM)", "points": ["Lecture on Acute MI - Clinical manifestations, complications, management", "Heart murmurs - Demo and Hands-on", "Defibrillator and CPR - Hands-on"] },
+        { "heading": "AFTERNOON SESSION (1:30 PM - 4:00 PM)", "points": ["ECG - Demo", "Echocardiography - Demo"] }
+      ],
+      "slotsAvailable": 60,
+      "fees": ["Early bird: ₹650", "Late bird: ₹750"],
+      "incharges": ["P HARINI SETHU: 9150484539", "R NANDITHA: 7338759215"],
+      "image": "/src/assets/workshop/Cardiology-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfVKAUaGP8aalWJEAKegfe1Fh9JFh0_TxMmHG1DpRn0qEkJYA/viewform?usp=header"
+    },
+    {
+      "id": "systema-nervosum",
+      "title": "SYSTEMA NERVOSUM",
+      "subtitle": "NEUROSURGERY WORKSHOP",
+      "conductedBy": "DEPT OF NEUROSURGERY, GKMCH",
+      "date": "27/09/2025, Saturday",
+      "time": "9:00 AM TO 1:00 PM",
+      "venue": "Microsurgery Auditorium, GKMCH",
+      "details": [
+        { "heading": "TOPICS", "points": ["Case discussion: Head injury", "Hands on experience: Craniotomy / Laminectomy", "Basics of CT-Brain", "Neurosurgical instruments – Display and demonstration"] }
+      ],
+      "slotsAvailable": 40,
+      "fees": ["Early Bird: ₹1300", "Late Bird: ₹1500"],
+      "incharges": ["MAKESH. A. B: 8072626454", "NAVEENRAJ. S. K: 9600039655"],
+      "image": "/src/assets/workshop/Neurosurgery-Workshops.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScCf_LdhTpWkxoGy20cJmbg9LWwuD3K06cq5yVa6hAsluUjiQ/viewform?usp=header"
+    },
+    {
+      "id": "ars-chirurgica",
+      "title": "ARS CHIRURGICA",
+      "subtitle": "SURGERY WORKSHOP",
+      "conductedBy": "DEPT OF GENERAL SURGERY, GKMCH",
+      "date": "26/09/25, Friday",
+      "time": "8:30 AM - 4:30 PM",
+      "venue": "Seminar hall, Department of General Surgery, Surgery Block, GKMCH",
+      "details": [
+        { "heading": "LECTURE & HANDS-ON", "points": ["Lecture: Different Types of Suturing Materials", "Hands-on: Basics of Suturing Methods - Suturing Kits will be provided to be taken along with the participants"] }
+      ],
+      "slotsAvailable": 150,
+      "fees": ["Early bird: ₹1200", "Late bird: ₹1350"],
+      "incharges": ["GURU SATHYA SUDHAN G R: 7305647975", "SHRETHARAN P K S: 9360617432"],
+      "image": "/src/assets/workshop/Surgery-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdUGPxY3R-cgX3fulL-ekHnUna4uojTuhOHJXoG5HbimGr9UQ/viewform?usp=header"
+    },
+    {
+      "id": "vita-nova",
+      "title": "VITA NOVA",
+      "subtitle": "OBSTETRIC & GYNAECOLOGY WORKSHOP",
+      "conductedBy": "DEPT OF OBSTETRICS AND GYNAECOLOGY, GKMCH",
+      "date": "28th September 2025, Sunday",
+      "time": "9:00 AM to 5:00 PM",
+      "venue": "Burns Auditorium, GKMCH",
+      "details": [
+        { "heading": "TOPICS", "points": ["Cervical Dilatation", "Episiotomy Suturing", "Assisted Breech Delivery", "IUCD and Mirena insertion and removal", "PPH medical and surgical management", "Outlet forceps application and delivery", "PAP smear/Pipelle Endometrial Biopsy", "AMSTL", "Manual removal of placenta", "Eclampsia"] }
+      ],
+      "slotsAvailable": 100,
+      "fees": ["Early Bird: ₹1100", "Late Bird: ₹1200"],
+      "incharges": ["Theayjusvini: 8925651417", "Kavi Priya: 6381105892"],
+      "image": "/src/assets/workshop/Obstetrics-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScfqx0laH5X_KnCCzx4dD-JPVEEWKNnhdZW-Kmc9ZoOFGR1-g/viewform?usp=header"
+    },
+    {
+      "id": "in-labyrinthus",
+      "title": "IN LABYRINTHUM",
+      "subtitle": "ENT WORKSHOP",
+      "conductedBy": "DEPT OF OTORHINOLARYNGOLOGY, GKMCH",
+      "date": "27/9/2025, Saturday",
+      "time": "9:30 AM to 1:00 PM",
+      "venue": "OP Auditorium, OP BLOCK, GKMCH",
+      "details": [
+        { "heading": "HANDS ON", "points": ["Cochlear implant surgery", "Foreign body removal"] },
+        { "heading": "DEMONSTRATION", "points": ["BPPV Maneuver", "Facial nerve decompression (Head and neck cadaver specimen)", "Temporal bone dissection", "Optic nerve decompression (Head and neck cadaver specimen)"] }
+      ],
+      "slotsAvailable": 40,
+      "fees": ["Early bird: ₹800", "Late bird: ₹900"],
+      "incharges": ["Haseen Fatimah AKJ: 7358234284", "SA Katheeja Mufliha: 9566261143"],
+      "image": "/src/assets/workshop/Otorhinolaryngology-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeAy243G7Z8cPL0CCpLj4MpbdXJ9qG8quppUxswdOp26-c1Zg/viewform?usp=header"
+    },
+    {
+      "id": "disciplina-ventris",
+      "title": "DISCIPLINA VENTRIS",
+      "subtitle": "GASTROENTEROLOGY WORKSHOP",
+      "conductedBy": "DEPT OF MEDICAL GASTROENTEROLOGY, GKMCH",
+      "date": "26/09/2025, Friday",
+      "time": "9:00 AM – 3:00 PM",
+      "venue": "1st Floor, JICA BUILDING ‘104’ Endoscopy Unit, GKMCH",
+      "details": [
+        { "heading": "VIDEO DEMONSTRATION", "points": ["Upper GI scopy: Diagnosis and therapeutics", "Colonoscopy: Diagnosis and therapeutics", "ERCP: Therapeutics", "EUS: Diagnosis"] },
+        { "heading": "HANDS ON SIMULATOR (with slide show explanation)", "points": ["Upper GI", "Lower GI", "ERCP"] },
+        { "heading": "LIVE DEMONSTRATION", "points": ["Colonoscopy", "Endoscopy"] }
+      ],
+      "slotsAvailable": 20,
+      "fees": ["Early bird: ₹800", "Late bird: ₹900"],
+      "incharges": ["Kavin Shankar S: 8072248232", "Kaviyapriya P: 9123567175"],
+      "image": "/src/assets/workshop/Gastroenterology-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScEMmiX7V3N2jdaTqtAYAwDHzIAwld6jeudy0Po0jEWs7dUcQ/viewform?usp=header"
+    },
+    {
+      "id": "mitis-toxica",
+      "title": "MITIS TOXICA",
+      "subtitle": "TOXICOLOGY WORKSHOP",
+      "conductedBy": "DEPT OF GENERAL MEDICINE, GKMCH",
+      "date": "26/09/25, Friday",
+      "time": "9:00 AM - 4:00 PM",
+      "venue": "Seminar hall, Department of general medicine, CMRL building",
+      "details": [
+        { "heading": "MORNING LECTURE (9:00 AM - 1:00 PM)", "points": ["Introduction and basic principles of toxicology", "Common household poisoning", "Snake bite", "Medicolegal aspects of poisoning"] },
+        { "heading": "HANDS-ON (2:00 PM - 4:00 PM)", "points": ["Ryle’s Tube", "Urinary Catheter"] }
+      ],
+      "slotsAvailable": 45,
+      "fees": ["Early bird: ₹650", "Late bird: ₹750"],
+      "incharges": ["Eva Kavyashree: 6381977899", "Vivina. P. Junia: 8754331316"],
+      "image": "/src/assets/workshop/Toxicology-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSenitJeVt1n79fYl36_gJdl5dtCV_7z1QAvMhTqYzp7_YIwlg/viewform?usp=header"
+    },
+    {
+      "id": "cura-paediatricia",
+      "title": "CURA PAEDIATRICIA",
+      "subtitle": "PAEDIATRICS WORKSHOP",
+      "conductedBy": "DEPT OF PAEDIATRICS, GKMCH",
+      "date": "26/9/25, Friday",
+      "time": "9:00 AM to 1:00 PM",
+      "venue": "Arivarangam, GKMCH (College Side)",
+      "details": [
+        { "heading": "LECTURE (9:00 AM to 11:00 AM)", "points": ["Approach to ETAT – Emergency triage and treatment", "Approach to Paediatrics Assessment and use of Paediatrics Assessment Triangle in Different Pediatrics ED case Scenarios"] },
+        { "heading": "HANDS ON (11:00 AM to 12:00 PM)", "points": ["Bag and Mask Ventilation", "Chest Compression", "Intraosseous Line Insertion", "Endotracheal Intubation", "Heimlich Maneuver", "NG tube Insertion"] }
+      ],
+      "slotsAvailable": null,
+      "fees": ["Early Bird: ₹800", "Late Bird: ₹950"],
+      "incharges": ["P.Mythrayee: 8807022511", "A.Jeyamari: 8778267889"],
+      "image": "/src/assets/workshop/Paediatrics-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSe085QZ_8edL_f-gZlgaL6OXMYcP83-5A1IcT2Fi7Vm2V67Bg/viewform?usp=header"
+    },
+    {
+      "id": "flamma-reficit",
+      "title": "FLAMMA REFICIT",
+      "subtitle": "BURNS & PLASTIC SURGERY WORKSHOP",
+      "conductedBy": "DEPT OF BURNS, RECONSTRUCTIVE AND PLASTIC SURGERY, GKMCH",
+      "date": "27/9/25, Saturday",
+      "time": "9:00 AM to 2:00 PM",
+      "venue": "Burns Auditorium, GKMCH",
+      "details": [
+        { "heading": "LECTURE (9:00 AM - 10:30 AM)", "points": ["Overview about burns", "Overview about plastic surgery along with that surgical interventions"] },
+        { "heading": "HANDS ON (10:30 AM - 12:00 PM)", "points": ["Dressings", "Special dressings", "Physiotherapy"] },
+        { "heading": "WARD ROUNDS (12:00 PM - 1:00 PM)", "points": ["Demonstration with patients"] }
+      ],
+      "slotsAvailable": 80,
+      "fees": ["Early Bird: ₹1300", "Late Bird: ₹1500"],
+      "incharges": ["Karthikeyan: 6379971940", "Jayapriya: 6382649899"],
+      "image": "/src/assets/workshop/Burns-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScWpGJBhXzNVLvwwV4Hyfr-GCrziBcFc9mfvdJVqy7-hhoosQ/viewform?usp=header"
+    },
+    {
+      "id": "medicina-veloce",
+      "title": "MEDICINA VELOCE",
+      "subtitle": "EMERGENCY MEDICINE WORKSHOP",
+      "conductedBy": "DEPARTMENT OF EMERGENCY MEDICINE, GKMCH",
+      "date": "26/9/25, Friday",
+      "time": "9:00 AM to 1:00 PM",
+      "venue": "Burns Auditorium, GKMCH",
+      "details": [
+        { "heading": "TOPICS", "points": ["BLS", "Concept of triaging in TAEl ward", "Case scenario of common emergencies", "Demo and hands on training in shifting and managing trauma patient", "Emergency ward rounds", "Interpretation ECG in Emergency ward"] }
+      ],
+      "slotsAvailable": 30,
+      "fees": ["Early Bird: ₹850", "Late Bird: ₹900"],
+      "incharges": ["Parethe MV: 9498853890", "Marudhavelan: 6374787227", "Prajwal: 8431510327"],
+      "image": "/src/assets/workshop/EmergencyMedicine-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScX1FhrpPokIBQVqInbt6Uf-1n8zRzCV23zuHOhIknUlkV2xw/viewform?usp=header"
+    },
+    {
+      "id": "colloquium-psychiatrium",
+      "title": "COLLOQUIUM PSYCHIATRIUM",
+      "subtitle": "PSYCHIATRY WORKSHOP",
+      "conductedBy": "DEPT. OF PSYCHIATRY, GKMCH",
+      "date": "26/9/25, Friday",
+      "time": "1:00 PM to 4:00 PM",
+      "venue": "Microsurgery Auditorium, GKMCH",
+      "details": [],
+      "slotsAvailable": null,
+      "fees": ["Early Bird: ₹400", "Late Bird: ₹500"],
+      "incharges": ["Akshay RM: 9884554867", "Piyush Bharadwaj: 9933231814"],
+      "image": "/src/assets/workshop/Psychiatry-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSffs2q8xoplNAEZloBabZDfm7dJ4z5YJkgOhap2tFYv2uMcXQ/viewform?usp=header"
+    },
+    {
+      "id": "chromosomata-illuminata",
+      "title": "CHROMOSOMATA ILLUMINATA",
+      "subtitle": "ANATOMY WORKSHOP",
+      "conductedBy": "DEPT OF ANATOMY, GKMCH JOINTLY WITH THE CLINICAL CELLULAR & MOLECULAR GENETICS AND TRANSLATIONAL RESEARCH CLUB",
+      "date": "26/9/25, Friday",
+      "time": "9:00 AM - 3:00 PM",
+      "venue": "To be announced",
+      "details": [
+        { "heading": "FORENOON SESSION (9:00 AM – 1:00 PM)", "points": ["Pre-Test", "Introduction to FISH and Karyotyping", "Nomenclature & Demonstration of FISH and Karyotyping", "Interpretation and Viewing of Slides"] },
+        { "heading": "POST LUNCH SESSION (2:00 PM – 3:00 PM)", "points": ["Clinical Case-Based Discussion - Down’s syndrome, Turner’s syndrome, Klinefelter’s syndrome, BCR-ABL fusion, Williams syndrome.", "Quiz (Online, 20 Questions)", "Post-Test, Feedback & Closing Remarks"] }
+      ],
+      "slotsAvailable": 50,
+      "fees": ["Early bird: ₹600", "Late bird: ₹700"],
+      "incharges": ["Sathyashree.S: 9384612261", "Gayathri.G: 7550248645"],
+      "image": "/src/assets/workshop/Anatomy-Workshop.jpg",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScusUDWgW-hgFzvNdShit8cWq0Y-0STfRYlI8VEFvJh9-n05w/viewform?usp=header"
+    }
+  ]
+}

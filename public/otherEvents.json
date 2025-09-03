@@ -1,0 +1,62 @@
+{
+  "events": [
+    {
+      "title": "MEDULLA CASUS - MEDICINE CASE PRESENTATION",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSd33JQJBDL3mIFHcAZi5L7DcXh2wKnLfWUuyje3YrokbMJzSg/viewform?usp=header",
+      "date": "27/09/2025",
+      "venue": "Community Medicine Lecture Hall / LH 2",
+      "time": "9:00 AM - 2:00 PM",
+      "rules": ["Cases can be taken from General Medicine.", "Participants are requested to take original rare cases worked up by the department in their college.", "ELIGIBILITY: 1st year MBBS to CRMI.", "There are no limitations on the number of case abstract submission from the same college."],
+      "abstract_rules": ["The case must be submitted in the form of an abstract with a word limit of 600 words (PDF format).", "Abstract should contain: Title, Summary of History, Salient examination findings, Investigations, Provisional/differential diagnosis, Management, and Discussion.", "Abstract must be accompanied by a letter from the Head of the Department attesting to its authenticity.", "Name of the participant, college, and patient details should not be mentioned anywhere in the abstract.", "The abstract PDF should be labelled as 'Name of participant, College, Subject'.", "Plagiarism is prohibited and will result in immediate disqualification.", "Last date for registration and submission of abstracts: 15th September 2025."],
+      "presentation_rules": ["Presentation of selected cases will take place in-person on the event date.", "The presentation should be in Microsoft PowerPoint format and can include pictures and videos.", "Presentation time is 7 minutes, followed by a viva session with the judge."],
+      "registration_fees": {"abstract_submission": "Rs 150", "presentation_of_selected_cases": "Rs 300 (Inclusive of lunch)"},
+      "incharges": [{"name": "Bavisha D", "phone": "7871569918"}, {"name": "Bharani B", "phone": "9444637105"}]
+    },
+    {
+      "title": "MEDULLA CASUS - SURGERY CASE PRESENTATION",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSc3XAjndgjvb4f36YEOIlGdxARHAebcI16VCQsAIG0qO0J63Q/viewform?usp=header",
+      "date": "27/09/2025",
+      "venue": "Community Medicine Lecture Hall / LH 2",
+      "time": "9:00 AM - 2:00 PM",
+      "rules": ["Cases can be taken from General Surgery.", "Participants are requested to take original rare cases worked up by the department in their college.", "ELIGIBILITY: 1st year MBBS to CRMI.", "There are no limitations on the number of case abstract submission from the same college."],
+      "abstract_rules": ["The case must be submitted in the form of an abstract with a word limit of 600 words (PDF format).", "Abstract should contain: Title, Summary of History, Salient examination findings, Investigations, Provisional/differential diagnosis, Management, and Discussion.", "Abstract must be accompanied by a letter from the Head of the Department attesting to its authenticity.", "Name of the participant, college, and patient details should not be mentioned anywhere in the abstract.", "The abstract PDF should be labelled as 'Name of participant, College, Subject'.", "Plagiarism is prohibited and will result in immediate disqualification.", "Last date for registration and submission of abstracts: 15th September 2025."],
+      "presentation_rules": ["Presentation of selected cases will take place in-person on the event date.", "The presentation should be in Microsoft PowerPoint format and can include pictures and videos.", "Presentation time is 7 minutes, followed by a viva session with the judge."],
+      "registration_fees": {"abstract_submission": "Rs 150", "presentation_of_selected_cases": "Rs 300 (Inclusive of lunch)"},
+      "incharges": [{"name": "Saratha Devi A", "phone": "8667369667"}, {"name": "Sharmila D", "phone": "9176524616"}]
+    },
+    {
+      "title": "MEDULLA CASUS - OBSTETRIC & GYNAECOLOGY CASE PRESENTATION",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSe2ecA3gCOSRhS1gv_enHDf6fQ3R3RZgnFw9wCHhWi0OOzIXA/viewform?usp=header",
+      "date": "26/09/2025",
+      "venue": "Anatomy Lecture Hall / LH 1",
+      "time": "9:30 AM onwards",
+      "rules": ["Cases can be taken from Obstetrics and Gynaecology.", "Participants are requested to take original rare cases worked up by the department in their college.", "ELIGIBILITY: 1st year MBBS to CRMI.", "There are no limitations on the number of case abstract submission from the same college."],
+      "abstract_rules": ["The case must be submitted in the form of an abstract with a word limit of 600 words (PDF format).", "Abstract should contain: Title, Summary of History, Salient examination findings, Investigations, Provisional/differential diagnosis, Management, and Discussion.", "Abstract must be accompanied by a letter from the Head of the Department attesting to its authenticity.", "Name of the participant, college, and patient details should not be mentioned anywhere in the abstract.", "The abstract PDF should be labelled as 'Name of participant, College, Subject'.", "Plagiarism is prohibited and will result in immediate disqualification.", "Last date for registration and submission of abstracts: 15th September 2025."],
+      "presentation_rules": ["Presentation of selected cases will take place in-person on the event date.", "The presentation should be in Microsoft PowerPoint format and can include pictures and videos.", "Presentation time is 7 minutes, followed by a viva session with the judge."],
+      "registration_fees": {"abstract_submission": "Rs 150", "presentation_of_selected_cases": "Rs 300 (Inclusive of lunch)"},
+      "incharges": [{"name": "Anneboina Navyacharitha", "phone": "9346412036"}, {"name": "Narmadha S", "phone": "9025159446"}]
+    },
+    {
+      "title": "FORUM ARGUMENTI - MEDICAL DEBATE",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeamRpXpBUkUSd-AqVzRSID3LGU2tZu2VxuNy_wPyTggBnxaQ/viewform?usp=header",
+      "date": "27/09/2025",
+      "venue": "Physiology Lecture Hall / LH 4",
+      "time": "9:30 AM onwards",
+      "rules": ["The English Debate will be conducted in 3 rounds: prelims, semifinals, and finals.", "ELIGIBILITY: Team event with 2 participants per team. Open to all MBBS students (1st MBBS to CRMI). No cross-college teams are allowed.", "TOPICS: Topics for prelims will be announced one day before the event. Topics for semifinals and finals will be announced on the day of the event.", "FORMAT: Opening Arguments (3 mins/speaker), Rebuttals (2 mins/team), Summary (1 min/team), followed by an Open Floor interactive exchange with judges.", "The use of offensive statements and remarks is strictly prohibited.", "The judges’ decision will be binding and final.", "Further instructions will be shared prior to the event.", "There are no limitations on the number of teams from the same college."],
+      "registration_fees": {"per_team": "Rs 300 (inclusive of lunch)"},
+      "incharges": [{"name": "Akash Subramanian", "phone": "9884054585"}, {"name": "Bhavagnya", "phone": "8248824427"}]
+    },
+    {
+      "title": "VESTIGIA VERITATIS - RESEARCH PAPER PRESENTATION",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdsS7VW5a-EZVOD17HxXBrnZf3Dahp9EJrycfhIkrIJskBnmA/viewform?usp=header",
+      "date": "29/09/2025",
+      "venue": "Anatomy Lecture Hall / LH 1",
+      "time": "9:30 AM onwards",
+      "rules": ["ELIGIBILITY: Open to all MBBS students from 1st MBBS to CRMI.", "The participant must be a part of the submitted research. Multiple entries are allowed, but only one will be selected per participant.", "Research papers of any topic are accepted.", "The study must be completed within the last 3 years and not have been published in journals.", "Institutional Ethics Committee (IEC) approval must have been obtained before the study.", "Plagiarism or lack of appropriate citations will result in immediate disqualification."],
+      "abstract_rules": ["Submitted abstract should contain: Title, Background/Introduction, Objectives, Materials and Methods, Results, Conclusion, and References.", "Word limit is 600 words (not including references).", "Abstract must be submitted in PDF format with the registration form.", "PDF file should be named as 'participant name_collegename_year of study_short topic'.", "Abstracts are judged on clarity, suitability of methods, and objective results."],
+      "presentation_rules": ["Presentations for selected abstracts will be held in-person.", "Presentations must be done on Microsoft PowerPoint and will be followed by a viva-voce session."],
+      "registration_fees": {"abstract_submission": "Rs 150", "if_selected_for_finals": "Rs 300 (Inclusive of lunch)"},
+      "incharges": [{"name": "Pankaj K Kotadia", "phone": "9003204850"}, {"name": "Mohanapriyaa P", "phone": "9710322573"}]
+    }
+  ]
+}
