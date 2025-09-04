@@ -62,7 +62,7 @@
         { "heading": "AFTERNOON SESSION (1:30 PM - 4:00 PM)", "points": ["ECG - Demo", "Echocardiography - Demo"] }
       ],
       "slotsAvailable": 60,
-      "fees": ["Early bird: ₹650", "Late bird: ₹750"],
+      "fees": [" Early Bird : ₹800", "late bird : ₹900"],
       "incharges": ["P HARINI SETHU: 9150484539", "R NANDITHA: 7338759215"],
       "image": "/workshop/Cardiology-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfVKAUaGP8aalWJEAKegfe1Fh9JFh0_TxMmHG1DpRn0qEkJYA/viewform?usp=header"
@@ -234,15 +234,33 @@
       "subtitle": "PSYCHIATRY WORKSHOP",
       "conductedBy": "DEPT. OF PSYCHIATRY, GKMCH",
       "date": "26/9/25, Friday",
-      "time": "1:00 PM to 4:00 PM",
+      "time": "09:00 AM - 10:00 AM ; 10:30 AM - 01:00 PM",
       "venue": "Microsurgery Auditorium, GKMCH",
-      "details": [],
-      "slotsAvailable": null,
-      "fees": ["Early Bird: ₹400", "Late Bird: ₹500"],
-      "incharges": ["Akshay RM: 9884554867", "Piyush Bharadwaj: 9933231814"],
+      "details": [
+        "OT (9 AM - 10 AM) - 15 slots available (1st come 1st serve basis)",
+        "Electroconvulsive Therapy (OT)",
+        "OT Scrubs and Slippers to be brought by the participant. Mask and head cap will be provided.",
+        "Lecture (10:30 AM - 1 PM)",
+        "Depression - Core clinical features, Diagnosis",
+        "Suicide risk factors and assessment tools",
+        "Case scenarios, stations, and group discussions",
+        "OSCE",
+        "Management - Therapeutic approaches & suicide prevention strategies"
+      ],
+      "slotsAvailable": "30 (OT - First 15)",
+      "fees": [
+        "(Inclusive of Lunch)",
+        "OT Included (OT + Lecture) - Rs 500",
+        "Lecture Only - Rs 400"
+      ],
+      "incharges": [
+        "Akshay RM - 9884554867",
+        "Piyush Bharadwaj - 9933231814"
+      ],
       "image": "/workshop/Psychiatry-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSffs2q8xoplNAEZloBabZDfm7dJ4z5YJkgOhap2tFYv2uMcXQ/viewform?usp=header"
     },
+
     {
       "id": "chromosomata-illuminata",
       "title": "CHROMOSOMATA ILLUMINATA",

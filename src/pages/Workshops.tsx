@@ -109,16 +109,40 @@ const WorkshopPage = () => {
             <p className="quiz-meta">📍 {selectedWorkshop.venue}</p>
 
             {/* Details sections */}
-            {selectedWorkshop.details.map((section: any, i: number) => (
-              <div key={i} className="mt-4">
-                <h3>{section.heading}</h3>
-                <ul>
-                  {section.points.map((p: string, j: number) => (
-                    <li key={j}>{p}</li>
-                  ))}
-                </ul>
+            {/* Details sections */}
+            {selectedWorkshop.details && selectedWorkshop.details.length > 0 && (
+              <div className="mt-4">
+                <h3 className="font-semibold">Details</h3>
+                {selectedWorkshop.details.map((section: any, i: number) => {
+                  
+                  if (typeof section === "string") {
+                    return (
+                      <ul key={i} className="list-disc list-inside mt-2 space-y-1">
+                        <li>{section}</li>
+                      </ul>
+                    );
+                  }
+
+                  // Case 2: Object with heading + points
+                  if (section.heading && Array.isArray(section.points)) {
+                    return (
+                      <div key={i} className="mt-2">
+                        <h4 className="font-medium">{section.heading}</h4>
+                        <ul className="list-disc list-inside space-y-1">
+                          {section.points.map((p: string, j: number) => (
+                            <li key={j}>{p}</li>
+                          ))}
+                        </ul>
+                      </div>
+                    );
+                  }
+
+                  // Fallback (unexpected data)
+                  return <p key={i}>{JSON.stringify(section)}</p>;
+                })}
               </div>
-            ))}
+            )}
+
 
             {/* Slots */}
             {selectedWorkshop.slotsAvailable && (

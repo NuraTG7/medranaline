@@ -64,15 +64,15 @@ const PrevEditions = () => {
           </p>
           <ScrollingGallery
             images={[
-              "/src/assets/Prev_Editions/24/DSC01604.jpeg",
-              "/src/assets/Prev_Editions/24/DSC01636.jpeg",
-              "/src/assets/Prev_Editions/24/DSC01751.jpeg",
-              "/src/assets/Prev_Editions/24/DSC01760.jpeg",
-              "/src/assets/Prev_Editions/24/DSC01790.jpeg",
-              "/src/assets/Prev_Editions/24/DSC01834.jpeg",
-              "/src/assets/Prev_Editions/24/DSC01876.jpeg",
-              "/src/assets/Prev_Editions/24/DSC02116.jpeg",
-              "/src/assets/Prev_Editions/24/DSC02126.jpeg",
+              "/Prev_Editions/24/DSC01604.jpeg",
+              "/Prev_Editions/24/DSC01636.jpeg",
+              "/Prev_Editions/24/DSC01751.jpeg",
+              "/Prev_Editions/24/DSC01760.jpeg",
+              "/Prev_Editions/24/DSC01790.jpeg",
+              "/Prev_Editions/24/DSC01834.jpeg",
+              "/Prev_Editions/24/DSC01876.jpeg",
+              "/Prev_Editions/24/DSC02116.jpeg",
+              "/Prev_Editions/24/DSC02126.jpeg",
             ]}
           />
         </section>
@@ -88,16 +88,16 @@ const PrevEditions = () => {
           </p>
           <ScrollingGallery
             images={[
-              "/src/assets/Prev_Editions/23/DSC07701.jpeg",
-              "/src/assets/Prev_Editions/23/DSC07721.jpeg",
-              "/src/assets/Prev_Editions/23/DSC07804.jpeg",
-              "/src/assets/Prev_Editions/23/DSC07816.jpeg",
-              "/src/assets/Prev_Editions/23/DSC07844.jpeg",
-              "/src/assets/Prev_Editions/23/DSC07856.jpeg",
-              "/src/assets/Prev_Editions/23/DSC08051.jpeg",
-              "/src/assets/Prev_Editions/23/DSC08098.jpeg",
-              "/src/assets/Prev_Editions/23/IMG_1838.jpeg",
-              "/src/assets/Prev_Editions/23/IMG_1849.jpeg",
+              "/Prev_Editions/23/DSC07701.jpeg",
+              "/Prev_Editions/23/DSC07721.jpeg",
+              "/Prev_Editions/23/DSC07804.jpeg",
+              "/Prev_Editions/23/DSC07816.jpeg",
+              "/Prev_Editions/23/DSC07844.jpeg",
+              "/Prev_Editions/23/DSC07856.jpeg",
+              "/Prev_Editions/23/DSC08051.jpeg",
+              "/Prev_Editions/23/DSC08098.jpeg",
+              "/Prev_Editions/23/IMG_1838.jpeg",
+              "/Prev_Editions/23/IMG_1849.jpeg",
             ]}
           />
         </section>
@@ -113,11 +113,11 @@ const PrevEditions = () => {
           </p>
           <ScrollingGallery
             images={[
-              "/src/assets/Prev_Editions/22/IMG_2041.png",
-              "/src/assets/Prev_Editions/22/IMG_2042.png",
-              "/src/assets/Prev_Editions/22/IMG_2043.png",
-              "/src/assets/Prev_Editions/22/IMG_2044.png",
-              "/src/assets/Prev_Editions/22/IMG_2045.png",
+              "/Prev_Editions/22/IMG_2041.png",
+              "/Prev_Editions/22/IMG_2042.png",
+              "/Prev_Editions/22/IMG_2043.png",
+              "/Prev_Editions/22/IMG_2044.png",
+              "/Prev_Editions/22/IMG_2045.png",
             ]}
             square
           />
