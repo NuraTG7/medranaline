@@ -43,7 +43,7 @@ const Accommodation = () => {
           <div className="bg-white/30 backdrop-blur-md border rounded-2xl shadow-lg p-6 mb-8 text-center">
             <p className="text-sm font-medium text-slate-700 tracking-wide">ACCOMMODATION FEE</p>
             <p className="text-3xl font-bold text-slate-900 mt-2">
-              ₹300 <span className="text-lg font-medium">/ person / day</span>
+              ₹250 <span className="text-lg font-medium">/ person / day</span>
             </p>
             <p className="text-slate-700 text-sm mt-1">(Includes breakfast and dinner)</p>
           </div>

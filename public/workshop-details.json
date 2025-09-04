@@ -32,7 +32,7 @@
     },
     {
       "id": "correctio-skeleti",
-      "title": "CORRECTIONE SKELETI",
+      "title": "CORRECTIO SKELETI",
       "subtitle": "ORTHOPAEDICS WORKSHOP",
       "conductedBy": "DEPT OF ORTHOPAEDICS, GKMCH",
       "date": "26th September 2025, Friday",
@@ -58,7 +58,7 @@
       "time": "8:30 AM - 4:00 PM",
       "venue": "OP CONFERENCE HALL, GKMCH",
       "details": [
-        { "heading": "MORNING SESSION (8:30 AM - 12:30 PM)", "points": ["Heart Murmurs - Auscultation", "Defibrillator - Demo and Hands On", "CPR - Hands On"] },
+        { "heading": "MORNING SESSION (8:30 AM - 12:30 PM)", "points": ["Lecture on Acute MI - Clinical Manifestation, Complications, Management.", "Heart Murmurs - Auscultation", "Defibrillator - Demo and Hands On", "CPR - Hands On"] },
         { "heading": "AFTERNOON SESSION (1:30 PM - 4:00 PM)", "points": ["ECG - Demo", "Echocardiography - Demo"] }
       ],
       "slotsAvailable": 60,
@@ -143,13 +143,34 @@
       "conductedBy": "DEPT OF MEDICAL GASTROENTEROLOGY, GKMCH",
       "date": "26/09/2025, Friday",
       "time": "9:00 AM – 3:00 PM",
-      "venue": "1st Floor, JICA BUILDING ‘104’ Endoscopy Unit, GKMCH",
+      "venue": "1st Floor, JICA BUILDING '104' Endoscopy Unit, GKMCH",
       "details": [
-        { "heading": "VIDEO DEMONSTRATION", "points": ["Upper GI scopy: Diagnosis and therapeutics", "Colonoscopy: Diagnosis and therapeutics", "ERCP: Therapeutics", "EUS: Diagnosis"] },
-        { "heading": "HANDS ON SIMULATOR", "points": ["Upper GI", "Lower GI", "ERCP"] },
-        { "heading": "LIVE DEMONSTRATION", "points": ["Colonoscopy", "Endoscopy"] }
-      ],
-      "slotsAvailable": 20,
+  {
+    "heading": "Video Demonstration (With Explanation)",
+    "points": [
+      "Upper GI Scopy : Diagnosis and Therapeutics",
+      "Colonoscopy : Diagnosis and Therapeutics",
+      "ERCP : Therapeutics",
+      "EUS : Diagnosis"
+    ]
+  },
+  {
+    "heading": "Hands On Simulator",
+    "points": [
+      "Upper GI",
+      "Lower GI",
+      "(Other excited topics will be added based on availability)"
+    ]
+  },
+  {
+    "heading": "Live Demonstration",
+    "points": [
+      "Colonoscopy",
+      "Endoscopy"
+    ]
+  }
+],
+"slotsAvailable": 30,
       "fees": ["Early bird: ₹800", "Late bird: ₹900"],
       "incharges": ["Kavin Shankar S: 8072248232", "Kaviyapriya P: 9123567175"],
       "image": "/workshop/Gastroenterology-Workshop.jpg",
@@ -182,7 +203,7 @@
       "time": "9:00 AM to 1:00 PM",
       "venue": "Arivarangam, GKMCH (College Side)",
       "details": [
-        { "heading": "LECTURE (9:00 AM to 11:00 AM)", "points": ["Approach to ETAT – Emergency triage and treatment", "Approach to Paediatrics Assessment and use of Paediatrics Assessment Triangle in Different Pediatrics ED case Scenarios"] },
+        { "heading": "LECTURE (9:00 AM to 11:00 AM)", "points": ["Approach to ETAT – Emergency triage and treatment", "Approach to Paediatrics Assessment in ER"] },
         { "heading": "HANDS ON (11:00 AM to 12:00 PM)", "points": ["Bag and Mask Ventilation", "Chest Compression", "Intraosseous Line Insertion", "Endotracheal Intubation", "Heimlich Maneuver", "NG tube Insertion"] }
       ],
       "slotsAvailable": null,
@@ -237,16 +258,25 @@
       "time": "09:00 AM - 10:00 AM ; 10:30 AM - 01:00 PM",
       "venue": "Microsurgery Auditorium, GKMCH",
       "details": [
-        "OT (9 AM - 10 AM) - 15 slots available (1st come 1st serve basis)",
-        "Electroconvulsive Therapy (OT)",
-        "OT Scrubs and Slippers to be brought by the participant. Mask and head cap will be provided.",
-        "Lecture (10:30 AM - 1 PM)",
-        "Depression - Core clinical features, Diagnosis",
-        "Suicide risk factors and assessment tools",
-        "Case scenarios, stations, and group discussions",
-        "OSCE",
-        "Management - Therapeutic approaches & suicide prevention strategies"
+        {
+          "heading": "OT (9:00 AM - 10:00 AM) – 15 slots available (1st come 1st serve basis)",
+          "points": [
+            "Electroconvulsive Therapy (OT) will be performed",
+            "OT Scrubs and Slippers to be brought by the participant. Mask and head cap will be provided."
+          ]
+        },
+        {
+          "heading": "Lecture (10:30 AM - 1:00 PM)",
+          "points": [
+            "Depression – Core clinical features, Diagnosis",
+            "Suicide risk factors and assessment tools",
+            "Case scenarios, stations, and group discussions",
+            "OSCE",
+            "Management – Therapeutic approaches & suicide prevention strategies"
+          ]
+        }
       ],
+
       "slotsAvailable": "30 (OT - First 15)",
       "fees": [
         "(Inclusive of Lunch)",
@@ -264,7 +294,7 @@
     {
       "id": "chromosomata-illuminata",
       "title": "CHROMOSOMATA ILLUMINATA",
-      "subtitle": "ANATOMY WORKSHOP",
+      "subtitle": "GENETICS WORKSHOP",
       "conductedBy": "DEPT OF ANATOMY, GKMCH JOINTLY WITH THE CLINICAL CELLULAR & MOLECULAR GENETICS AND TRANSLATIONAL RESEARCH CLUB",
       "date": "26/9/25, Friday",
       "time": "9:00 AM - 3:00 PM",
@@ -275,7 +305,7 @@
       ],
       "slotsAvailable": 50,
       "fees": ["Early bird: ₹700", "Late bird: ₹800"],
-      "incharges": ["Sathyashree.S: 9384612261", "Gayathri.G: 7550248645"],
+      "incharges": ["Sathyashree.S: 9384612261", "Sanshitha.D: 94983 85294"],
       "image": "/workshop/Anatomy-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScusUDWgW-hgFzvNdShit8cWq0Y-0STfRYlI8VEFvJh9-n05w/viewform?usp=header"
     }

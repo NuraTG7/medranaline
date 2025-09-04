@@ -127,7 +127,7 @@ const WorkshopPage = () => {
                   if (section.heading && Array.isArray(section.points)) {
                     return (
                       <div key={i} className="mt-2">
-                        <h4 className="font-medium">{section.heading}</h4>
+                        <h4 className="font-bold">{section.heading}</h4>
                         <ul className="list-disc list-inside space-y-1">
                           {section.points.map((p: string, j: number) => (
                             <li key={j}>{p}</li>

@@ -154,7 +154,7 @@ const Index = () => {
                 across Tamil Nadu.
               </p>
               <p className="text-lg mb-6 leading-relaxed text-slate-700">
-                Spanning over four vibrant days, Medrenaline is a celebration of
+                Spanning over three vibrant days, Medrenaline is a celebration of
                 medical intellect and curiosity – featuring an array of engaging
                 events that cater to every academic pursuit. From captivating
                 junior and senior quizzes, impassioned medical debates, and

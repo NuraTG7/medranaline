@@ -107,7 +107,7 @@ const ContactUs = () => {
                 }
               >
                 <img
-                  src="/src/assets/logo/AADUKALAM-LOGO.png"
+                  src="/logo/AADUKALAM-LOGO.png"
                   alt="AADUKALAM Logo"
                   className="max-w-full max-h-full object-contain"
                 />
@@ -124,7 +124,7 @@ const ContactUs = () => {
                 }
               >
                 <img
-                  src="/src/assets/logo/PRAD-LOGO.png"
+                  src="/logo/PRAD-LOGO.png"
                   alt="PRAD Logo"
                   className="max-w-full max-h-full object-contain"
                 />
