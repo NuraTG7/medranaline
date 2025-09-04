@@ -58,7 +58,7 @@
       "time": "8:30 AM - 4:00 PM",
       "venue": "OP CONFERENCE HALL, GKMCH",
       "details": [
-        { "heading": "MORNING SESSION (8:30 AM - 12:30 PM)", "points": ["Lecture on Acute MI - Clinical manifestations, complications, management", "Heart murmurs - Demo and Hands-on", "Defibrillator and CPR - Hands-on"] },
+        { "heading": "MORNING SESSION (8:30 AM - 12:30 PM)", "points": ["Heart Murmurs - Auscultation", "Defibrillator - Demo and Hands On", "CPR - Hands On"] },
         { "heading": "AFTERNOON SESSION (1:30 PM - 4:00 PM)", "points": ["ECG - Demo", "Echocardiography - Demo"] }
       ],
       "slotsAvailable": 60,
@@ -110,7 +110,7 @@
       "time": "9:00 AM to 5:00 PM",
       "venue": "Burns Auditorium, GKMCH",
       "details": [
-        { "heading": "TOPICS", "points": ["Cervical Dilatation", "Episiotomy Suturing", "Assisted Breech Delivery", "IUCD and Mirena insertion and removal", "PPH medical and surgical management", "Outlet forceps application and delivery", "PAP smear/Pipelle Endometrial Biopsy", "AMSTL", "Manual removal of placenta", "Eclampsia"] }
+        { "heading": "SKILL STATION (HANDS ON)", "points": ["Cervical Dilatation Assessment", "Episiotomy Suturing", "Assisted Breech Delivery", "IUCD and Mirena insertion and removal", "PPH medical and surgical management", "Outlet forceps application and delivery", "PAP smear/Pipelle Endometrial Biopsy", "AMSTL Steps", "Manual removal of placenta", "Eclampsia"] }
       ],
       "slotsAvailable": 100,
       "fees": ["Early Bird: ₹1100", "Late Bird: ₹1200"],
@@ -127,8 +127,8 @@
       "time": "9:30 AM to 1:00 PM",
       "venue": "OP Auditorium, OP BLOCK, GKMCH",
       "details": [
-        { "heading": "HANDS ON", "points": ["Cochlear implant surgery", "Foreign body removal"] },
-        { "heading": "DEMONSTRATION", "points": ["BPPV Maneuver", "Facial nerve decompression (Head and neck cadaver specimen)", "Temporal bone dissection", "Optic nerve decompression (Head and neck cadaver specimen)"] }
+        { "heading": "HANDS ON", "points": ["Cochlear implant surgery", "Foreign body removal", "Tracheostomy", "Microdebrider"] },
+        { "heading": "DEMONSTRATION", "points": ["BPPV Maneuver", "Facial nerve decompression (Head and neck cadaver specimen)", "Temporal bone dissection", " Orbital decompression (Head and neck cadaver specimen)"] }
       ],
       "slotsAvailable": 40,
       "fees": ["Early bird: ₹800", "Late bird: ₹900"],
@@ -138,7 +138,7 @@
     },
     {
       "id": "disciplina-ventris",
-      "title": "DISCIPLINA VENTRIS",
+      "title": "GASTRUM EXPLORARE",
       "subtitle": "GASTROENTEROLOGY WORKSHOP",
       "conductedBy": "DEPT OF MEDICAL GASTROENTEROLOGY, GKMCH",
       "date": "26/09/2025, Friday",
@@ -146,7 +146,7 @@
       "venue": "1st Floor, JICA BUILDING ‘104’ Endoscopy Unit, GKMCH",
       "details": [
         { "heading": "VIDEO DEMONSTRATION", "points": ["Upper GI scopy: Diagnosis and therapeutics", "Colonoscopy: Diagnosis and therapeutics", "ERCP: Therapeutics", "EUS: Diagnosis"] },
-        { "heading": "HANDS ON SIMULATOR (with slide show explanation)", "points": ["Upper GI", "Lower GI", "ERCP"] },
+        { "heading": "HANDS ON SIMULATOR", "points": ["Upper GI", "Lower GI", "ERCP"] },
         { "heading": "LIVE DEMONSTRATION", "points": ["Colonoscopy", "Endoscopy"] }
       ],
       "slotsAvailable": 20,
@@ -194,13 +194,13 @@
     {
       "id": "flamma-reficit",
       "title": "FLAMMA REFICIT",
-      "subtitle": "BURNS & PLASTIC SURGERY WORKSHOP",
+      "subtitle": "BURNS & PLASTIC RECONSTRUCTIVE SURGERY WORKSHOP",
       "conductedBy": "DEPT OF BURNS, RECONSTRUCTIVE AND PLASTIC SURGERY, GKMCH",
       "date": "27/9/25, Saturday",
       "time": "9:00 AM to 2:00 PM",
       "venue": "Burns Auditorium, GKMCH",
       "details": [
-        { "heading": "LECTURE (9:00 AM - 10:30 AM)", "points": ["Overview about burns", "Overview about plastic surgery along with that surgical interventions"] },
+        { "heading": "LECTURE (9:00 AM - 10:30 AM)", "points": ["Overview about burns", "Overview about plastic surgery along with its surgical interventions"] },
         { "heading": "HANDS ON (10:30 AM - 12:00 PM)", "points": ["Dressings", "Special dressings", "Physiotherapy"] },
         { "heading": "WARD ROUNDS (12:00 PM - 1:00 PM)", "points": ["Demonstration with patients"] }
       ],
@@ -219,7 +219,7 @@
       "time": "9:00 AM to 1:00 PM",
       "venue": "Burns Auditorium, GKMCH",
       "details": [
-        { "heading": "TOPICS", "points": ["BLS", "Concept of triaging in TAEl ward", "Case scenario of common emergencies", "Demo and hands on training in shifting and managing trauma patient", "Emergency ward rounds", "Interpretation ECG in Emergency ward"] }
+        { "heading": "TOPICS", "points": ["BLS", "Concept of triaging in TAEl ward", "Case scenario of common emergencies", "Demo and hands on training in shifting and managing trauma patient", "Emergency ward rounds", "Interpretation of ECG in Emergency ward"] }
       ],
       "slotsAvailable": 30,
       "fees": ["Early Bird: ₹850", "Late Bird: ₹900"],
@@ -274,7 +274,7 @@
         { "heading": "POST LUNCH SESSION (2:00 PM – 3:00 PM)", "points": ["Clinical Case-Based Discussion - Down’s syndrome, Turner’s syndrome, Klinefelter’s syndrome, BCR-ABL fusion, Williams syndrome.", "Quiz (Online, 20 Questions)", "Post-Test, Feedback & Closing Remarks"] }
       ],
       "slotsAvailable": 50,
-      "fees": ["Early bird: ₹600", "Late bird: ₹700"],
+      "fees": ["Early bird: ₹700", "Late bird: ₹800"],
       "incharges": ["Sathyashree.S: 9384612261", "Gayathri.G: 7550248645"],
       "image": "/workshop/Anatomy-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScusUDWgW-hgFzvNdShit8cWq0Y-0STfRYlI8VEFvJh9-n05w/viewform?usp=header"
