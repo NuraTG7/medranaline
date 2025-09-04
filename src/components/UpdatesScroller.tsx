@@ -7,10 +7,10 @@ const UpdatesScroller = () => {
 
   const updates = [
     {
-      date: "2025-09-04",
+      date: "2025-09-05",
       title: "Registration Opens Soon!",
       content:
-        "Workshop registrations will begin on September 4th, 2025. Stay tuned for exciting medical workshops and competitions!",
+        "Workshop registrations will begin on September 5th, 2025. Stay tuned for exciting medical workshops and competitions!",
       type: "announcement",
     },
     {
