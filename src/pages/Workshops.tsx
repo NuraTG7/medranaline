@@ -52,23 +52,19 @@ const WorkshopPage = () => {
         <section className="container mx-auto px-4 pt-4 pb-16">
           {/* Grid for all except last 2 */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-            {workshops.slice(0, workshops.length - 2).map((ws, idx) => (
+            {workshops.slice(0, workshops.length - 2).map((ws) => (
               <div
-                key={idx}
+                key={ws.id}
                 onClick={() => setSelectedWorkshop(ws)}
                 className="relative rounded-2xl overflow-hidden shadow-lg transform transition duration-300 hover:-translate-y-2 hover:scale-105 hover:shadow-2xl cursor-pointer"
               >
-                {/* Image */}
+                {/* Background Image */}
                 <img
                   src={ws.image || "/placeholder.svg"}
                   alt={ws.title}
                   className="w-full h-64 object-cover"
                 />
-
-                {/* Dark Overlay */}
                 <div className="absolute inset-0 bg-black/40"></div>
-
-                {/* Content Overlay */}
                 <div className="absolute inset-0 flex flex-col justify-center p-4 text-center text-white">
                   <h2 className="text-lg font-bold">{ws.title}</h2>
                   <p className="text-sm mt-1">{ws.subtitle}</p>
@@ -79,9 +75,9 @@ const WorkshopPage = () => {
 
           {/* Last Two Workshops Centered */}
           <div className="mt-8 flex justify-center gap-8 flex-wrap">
-            {workshops.slice(-2).map((ws, idx) => (
+            {workshops.slice(-2).map((ws) => (
               <div
-                key={idx}
+                key={ws.id}
                 onClick={() => setSelectedWorkshop(ws)}
                 className="relative rounded-2xl overflow-hidden shadow-lg transform transition duration-300 hover:-translate-y-2 hover:scale-105 hover:shadow-2xl cursor-pointer w-full sm:w-1/2 md:w-1/3 lg:w-1/4"
               >

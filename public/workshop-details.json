@@ -27,7 +27,7 @@
       "slotsAvailable": 40,
       "fees": ["Early bird: ₹700", "Late bird: ₹800"],
       "incharges": ["Srinisha: 7904538069", "Swetha: 8148655688"],
-      "image": "/src/assets/workshop/Ophthalmology-Workshop.jpg",
+      "image": "/workshop/Ophthalmology-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfGX0gLmcL3SbPFOa2g_cPUTjzOWw5SMccuvUkthgUHqWKlEQ/viewform?usp=header"
     },
     {
@@ -46,7 +46,7 @@
       "slotsAvailable": 50,
       "fees": ["Early bird: ₹1100", "Late bird: ₹1250"],
       "incharges": ["Vishnu Teja: 8190905588", "Shyam Balaji: 9489969699"],
-      "image": "/src/assets/workshop/Orthopaedics-Workshop.jpg",
+      "image": "/workshop/Orthopaedics-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScXzuBRK3D5m1sWEZa0mi9zq7v6tUr1BXWaTS5tM0K4w4bNgg/viewform?usp=header"
     },
     {
@@ -64,7 +64,7 @@
       "slotsAvailable": 60,
       "fees": ["Early bird: ₹650", "Late bird: ₹750"],
       "incharges": ["P HARINI SETHU: 9150484539", "R NANDITHA: 7338759215"],
-      "image": "/src/assets/workshop/Cardiology-Workshop.jpg",
+      "image": "/workshop/Cardiology-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfVKAUaGP8aalWJEAKegfe1Fh9JFh0_TxMmHG1DpRn0qEkJYA/viewform?usp=header"
     },
     {
@@ -81,7 +81,7 @@
       "slotsAvailable": 40,
       "fees": ["Early Bird: ₹1300", "Late Bird: ₹1500"],
       "incharges": ["MAKESH. A. B: 8072626454", "NAVEENRAJ. S. K: 9600039655"],
-      "image": "/src/assets/workshop/Neurosurgery-Workshops.jpg",
+      "image": "/workshop/Neurosurgery-Workshops.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScCf_LdhTpWkxoGy20cJmbg9LWwuD3K06cq5yVa6hAsluUjiQ/viewform?usp=header"
     },
     {
@@ -98,7 +98,7 @@
       "slotsAvailable": 150,
       "fees": ["Early bird: ₹1200", "Late bird: ₹1350"],
       "incharges": ["GURU SATHYA SUDHAN G R: 7305647975", "SHRETHARAN P K S: 9360617432"],
-      "image": "/src/assets/workshop/Surgery-Workshop.jpg",
+      "image": "/workshop/Surgery-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdUGPxY3R-cgX3fulL-ekHnUna4uojTuhOHJXoG5HbimGr9UQ/viewform?usp=header"
     },
     {
@@ -115,7 +115,7 @@
       "slotsAvailable": 100,
       "fees": ["Early Bird: ₹1100", "Late Bird: ₹1200"],
       "incharges": ["Theayjusvini: 8925651417", "Kavi Priya: 6381105892"],
-      "image": "/src/assets/workshop/Obstetrics-Workshop.jpg",
+      "image": "/workshop/Obstetrics-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScfqx0laH5X_KnCCzx4dD-JPVEEWKNnhdZW-Kmc9ZoOFGR1-g/viewform?usp=header"
     },
     {
@@ -133,7 +133,7 @@
       "slotsAvailable": 40,
       "fees": ["Early bird: ₹800", "Late bird: ₹900"],
       "incharges": ["Haseen Fatimah AKJ: 7358234284", "SA Katheeja Mufliha: 9566261143"],
-      "image": "/src/assets/workshop/Otorhinolaryngology-Workshop.jpg",
+      "image": "/workshop/Otorhinolaryngology-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeAy243G7Z8cPL0CCpLj4MpbdXJ9qG8quppUxswdOp26-c1Zg/viewform?usp=header"
     },
     {
@@ -152,7 +152,7 @@
       "slotsAvailable": 20,
       "fees": ["Early bird: ₹800", "Late bird: ₹900"],
       "incharges": ["Kavin Shankar S: 8072248232", "Kaviyapriya P: 9123567175"],
-      "image": "/src/assets/workshop/Gastroenterology-Workshop.jpg",
+      "image": "/workshop/Gastroenterology-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScEMmiX7V3N2jdaTqtAYAwDHzIAwld6jeudy0Po0jEWs7dUcQ/viewform?usp=header"
     },
     {
@@ -170,7 +170,7 @@
       "slotsAvailable": 45,
       "fees": ["Early bird: ₹650", "Late bird: ₹750"],
       "incharges": ["Eva Kavyashree: 6381977899", "Vivina. P. Junia: 8754331316"],
-      "image": "/src/assets/workshop/Toxicology-Workshop.jpg",
+      "image": "/workshop/Toxicology-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSenitJeVt1n79fYl36_gJdl5dtCV_7z1QAvMhTqYzp7_YIwlg/viewform?usp=header"
     },
     {
@@ -188,7 +188,7 @@
       "slotsAvailable": null,
       "fees": ["Early Bird: ₹800", "Late Bird: ₹950"],
       "incharges": ["P.Mythrayee: 8807022511", "A.Jeyamari: 8778267889"],
-      "image": "/src/assets/workshop/Paediatrics-Workshop.jpg",
+      "image": "/workshop/Paediatrics-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSe085QZ_8edL_f-gZlgaL6OXMYcP83-5A1IcT2Fi7Vm2V67Bg/viewform?usp=header"
     },
     {
@@ -207,7 +207,7 @@
       "slotsAvailable": 80,
       "fees": ["Early Bird: ₹1300", "Late Bird: ₹1500"],
       "incharges": ["Karthikeyan: 6379971940", "Jayapriya: 6382649899"],
-      "image": "/src/assets/workshop/Burns-Workshop.jpg",
+      "image": "/workshop/Burns-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScWpGJBhXzNVLvwwV4Hyfr-GCrziBcFc9mfvdJVqy7-hhoosQ/viewform?usp=header"
     },
     {
@@ -223,8 +223,9 @@
       ],
       "slotsAvailable": 30,
       "fees": ["Early Bird: ₹850", "Late Bird: ₹900"],
-      "incharges": ["Parethe MV: 9498853890", "Marudhavelan: 6374787227", "Prajwal: 8431510327"],
-      "image": "/src/assets/workshop/EmergencyMedicine-Workshop.jpg",
+      "incharges": ["Parethe MV: 9498853890",
+ "Marudhavelan: 6374787227", "Prajwal: 8431510327"],
+      "image": "/workshop/EmergencyMedicine-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScX1FhrpPokIBQVqInbt6Uf-1n8zRzCV23zuHOhIknUlkV2xw/viewform?usp=header"
     },
     {
@@ -239,7 +240,7 @@
       "slotsAvailable": null,
       "fees": ["Early Bird: ₹400", "Late Bird: ₹500"],
       "incharges": ["Akshay RM: 9884554867", "Piyush Bharadwaj: 9933231814"],
-      "image": "/src/assets/workshop/Psychiatry-Workshop.jpg",
+      "image": "/workshop/Psychiatry-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSffs2q8xoplNAEZloBabZDfm7dJ4z5YJkgOhap2tFYv2uMcXQ/viewform?usp=header"
     },
     {
@@ -257,7 +258,7 @@
       "slotsAvailable": 50,
       "fees": ["Early bird: ₹600", "Late bird: ₹700"],
       "incharges": ["Sathyashree.S: 9384612261", "Gayathri.G: 7550248645"],
-      "image": "/src/assets/workshop/Anatomy-Workshop.jpg",
+      "image": "/workshop/Anatomy-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScusUDWgW-hgFzvNdShit8cWq0Y-0STfRYlI8VEFvJh9-n05w/viewform?usp=header"
     }
   ]
