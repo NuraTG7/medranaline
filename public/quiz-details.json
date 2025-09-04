@@ -2,7 +2,7 @@
   "quizzes": [
     {
       "id": "senior",
-      "title": "Medrenaline’25 - Senior Quiz",
+      "title": "Medrenaline'25 - Senior Quiz",
       "date": "28th June 2025",
       "time": "Prelims: 8:30 AM | Finals: 12 PM",
       "venue": "Auditorium, Kilpauk Medical College, Chennai",
@@ -35,8 +35,8 @@
       "image": "/images/senior-quiz.jpg"
     },
     {
-      "id": "junior",
-      "title": "Symbiosis'25 - The Junior Quiz",
+      "id": "symbiosis25-junior",
+      "title": "Symbiosis’25 -\n Junior Quiz",
       "date": "27th September 2025",
       "time": "Prelims: 8:30 AM | Finals: 12 PM",
       "venue": "Auditorium, Kilpauk Medical College, Chennai",

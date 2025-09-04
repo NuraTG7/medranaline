@@ -10,7 +10,7 @@ const UpdatesScroller = () => {
       date: "2025-09-04",
       title: "Registration Opens Soon!",
       content:
-        "Workshop registrations will begin on February 4th, 2025. Stay tuned for exciting medical workshops and competitions!",
+        "Workshop registrations will begin on September 4th, 2025. Stay tuned for exciting medical workshops and competitions!",
       type: "announcement",
     },
     {

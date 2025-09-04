@@ -42,7 +42,7 @@ const QuizPage = () => {
             className="text-3xl md:text-4xl font-extrabold mb-4 tracking-wide 
                          bg-gradient-to-r from-blue-600 to-pink-500 bg-clip-text text-transparent"
           >
-            Medrenaline’25 Quiz Competitions
+            Medrenaline'25 Quiz Competitions
           </h1>
           <p className="text-base md:text-lg max-w-2xl mx-auto text-slate-700">
             Click on a competition card for details and registration.
@@ -69,9 +69,10 @@ const QuizPage = () => {
                   {/* Overlay */}
                   <div className="absolute inset-0 bg-black/40 flex flex-col justify-center p-6">
                     {/* Title is centered */}
-                    <h2 className="text-2xl font-extrabold text-white text-center drop-shadow-lg">
+                    <h2 className="text-2xl font-extrabold text-white text-center drop-shadow-lg whitespace-pre-line">
                       {quiz.title}
                     </h2>
+
                   </div>
                 </div>
               </div>
