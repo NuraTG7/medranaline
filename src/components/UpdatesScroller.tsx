@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
+import { Content } from "vaul";
 
 const UpdatesScroller = () => {
   const [currentUpdate, setCurrentUpdate] = useState(0);
@@ -26,6 +27,12 @@ const UpdatesScroller = () => {
       content:
         "We're looking for sponsors to make Medrenaline'25 even bigger! Contact us for partnership opportunities.",
       type: "opportunity",
+    },
+    {
+      date: "2025-09-05",
+      title : "Brochure is Out Now ! ",
+      Content : "Medrenaline’25 brochure is out now and registrations are open: https://drive.google.com/drive/folders/1iMbuYQsTyHr9O9_rvtKa6fRRlDUs0G6F - Register Now!",
+      type: "announcement",
     },
     
   ];
