@@ -203,7 +203,7 @@
       "time": "9:00 AM to 1:00 PM",
       "venue": "Arivarangam, GKMCH (College Side)",
       "details": [
-        { "heading": "LECTURE (9:00 AM to 11:00 AM)", "points": ["Approach to ETAT – Emergency triage and treatment", "Approach to Paediatrics Assessment in ER"] },
+        { "heading": "LECTURE (9:00 AM to 11:00 AM)", "points": ["Approach to ETAT – Emergency, triage and treatment", "Approach to Paediatrics assessment in ER and uses of paediatrics assessment triangle in different Paediatrics ED case scenarios."] },
         { "heading": "HANDS ON (11:00 AM to 12:00 PM)", "points": ["Bag and Mask Ventilation", "Chest Compression", "Intraosseous Line Insertion", "Endotracheal Intubation", "Heimlich Maneuver", "NG tube Insertion"] }
       ],
       "slotsAvailable": null,
