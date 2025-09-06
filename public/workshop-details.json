@@ -113,7 +113,7 @@
         { "heading": "SKILL STATION (HANDS ON)", "points": ["Cervical Dilatation Assessment", "Episiotomy Suturing", "Assisted Breech Delivery", "IUCD and Mirena insertion and removal", "PPH medical and surgical management", "Outlet forceps application and delivery", "PAP smear/Pipelle Endometrial Biopsy", "AMSTL Steps", "Manual removal of placenta", "Eclampsia"] }
       ],
       "slotsAvailable": 100,
-      "fees": ["Early Bird: ₹1100", "Late Bird: ₹1200"],
+      "fees": ["Early Bird: ₹1100", "Late Bird: ₹1250"],
       "incharges": ["Theayjusvini: 8925651417", "Kavi Priya: 6381105892"],
       "image": "/workshop/Obstetrics-Workshop.jpg",
       "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScfqx0laH5X_KnCCzx4dD-JPVEEWKNnhdZW-Kmc9ZoOFGR1-g/viewform?usp=header"
@@ -200,7 +200,7 @@
       "subtitle": "PAEDIATRICS WORKSHOP",
       "conductedBy": "DEPT OF PAEDIATRICS, GKMCH",
       "date": "26/9/25, Friday",
-      "time": "9:00 AM to 1:00 PM",
+      "time": "08:30 AM to 04:00 PM",
       "venue": "Arivarangam, GKMCH (College Side)",
       "details": [
         { "heading": "LECTURE (9:00 AM to 11:00 AM)", "points": ["Approach to ETAT – Emergency, triage and treatment", "Approach to Paediatrics assessment in ER and uses of paediatrics assessment triangle in different Paediatrics ED case scenarios."] },
@@ -237,13 +237,13 @@
       "subtitle": "EMERGENCY MEDICINE WORKSHOP",
       "conductedBy": "DEPARTMENT OF EMERGENCY MEDICINE, GKMCH",
       "date": "26/9/25, Friday",
-      "time": "9:00 AM to 1:00 PM",
+      "time": "08:30 AM to 04:00 PM",
       "venue": "Burns Auditorium, GKMCH",
       "details": [
         { "heading": "TOPICS", "points": ["BLS", "Concept of triaging in TAEl ward", "Case scenario of common emergencies", "Demo and hands on training in shifting and managing trauma patient", "Emergency ward rounds", "Interpretation of ECG in Emergency ward"] }
       ],
       "slotsAvailable": 30,
-      "fees": ["Early Bird: ₹850", "Late Bird: ₹900"],
+      "fees": ["Early Bird: ₹850", "Late Bird: ₹950"],
       "incharges": ["Parethe MV: 9498853890",
  "Marudhavelan: 6374787227", "Prajwal: 8431510327"],
       "image": "/workshop/EmergencyMedicine-Workshop.jpg",
